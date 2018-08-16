@@ -1,0 +1,8 @@
+This is is an example example of duplicate.
+This is is is is is is is an example example example of duplicate.
+This is a very long and winded example that will check to see if you are planning
+planning to check duplicates between multiple lines.
+For another example example, here is a duplicate with punctuation marks
+marks. This example checks semicolons semicolons; and exclamations exclamations!  While this example checks 
+question marks marks? This is an example EXAMPLE of duplicate.
+For another example, example here is a duplicate with punctuation marks. marks.
